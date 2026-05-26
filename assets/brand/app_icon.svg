@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">くちとじウォッチ app icon</title>
+  <desc id="desc">A calm teal face outline with a closed mouth indicator.</desc>
+  <rect width="1024" height="1024" rx="220" fill="#0f1416"/>
+  <circle cx="512" cy="512" r="356" fill="#17353a"/>
+  <path d="M323 396c30-55 91-91 189-91s159 36 189 91" fill="none" stroke="#60d6a6" stroke-width="54" stroke-linecap="round"/>
+  <circle cx="400" cy="472" r="33" fill="#e9fff6"/>
+  <circle cx="624" cy="472" r="33" fill="#e9fff6"/>
+  <path d="M348 638c82 68 246 68 328 0" fill="none" stroke="#e9fff6" stroke-width="54" stroke-linecap="round"/>
+  <path d="M354 704h316" fill="none" stroke="#60d6a6" stroke-width="28" stroke-linecap="round"/>
+  <path d="M770 286l52-52m-50 109l76-10m-128-71l9-76" fill="none" stroke="#ffc857" stroke-width="28" stroke-linecap="round"/>
+</svg>
